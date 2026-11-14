@@ -4,6 +4,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Random%20Forest-orange.svg)](https://scikit-learn.org/)
 [![Dataset](https://img.shields.io/badge/Reanalysis-ERA5--Land%20%7C%20NASA%20GLC-teal.svg)](https://cds.climate.copernicus.eu/)
 [![Institution](https://img.shields.io/badge/IIT%20Mandi-Applied%20Hydroclimatology-darkblue.svg)](https://www.iitmandi.ac.in/)
+![Feature Importance](eda_plots/feature_importance_rf.png)
 
 An integrated **hydro-climatological and machine learning framework** developed to investigate antecedent rainfall and subsurface soil moisture triggers for landslides in the **Mandi–Hamirpur region of the North-Western Himalayas** ($31.2^\circ\text{N}–32.3^\circ\text{N}, 76.4^\circ\text{E}–77.5^\circ\text{E}$).
 
